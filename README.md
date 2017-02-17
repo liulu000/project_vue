@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # my-project
 
 > A Vue.js project
@@ -32,4 +32,3 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 =======
 # project_vue
 参考网址http://www.zmnews.com.cn/
->>>>>>> a8378257c3d2ff0ea88c5afe5701fb5613a62366
