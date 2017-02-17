@@ -1,18 +1,12 @@
 <template>
   	<div class="header">
-   		<div class="header_l">
-            <a class="ico_01" href="#/two">菜单栏</a>         
-        </div>
-        <p>技术支持微测试</p>
-        <div class="header_r">
-            <a class="ico_01" href="fnews.php?id=110&amp;act=creat&amp;uid=1"> 购物车 </a>
-        </div>
+   		我是第二个
   	</div>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'two',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -26,7 +20,7 @@ export default {
     .header{
         width: 100%;
         height: 42px;
-        background: #fd0a48; 
+        background: #fd0a48;
     }
     .header_l{
         float: left;
